@@ -1,0 +1,18 @@
+.skeletonFlex {
+    display: flex;
+    margin-top: 50px!important;
+    align-items: center;
+}
+.marginL10 {
+    margin-left: 10px;
+}
+
+.marginL70 {
+    margin-left: 70px;
+}
+
+.suggestionFlex {
+    display: flex;
+    margin-top: 10px!important;
+    align-items: center;
+}
